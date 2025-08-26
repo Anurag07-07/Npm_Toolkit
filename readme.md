@@ -213,7 +213,7 @@ This package is designed to **save you time when building authentication systems
 
 **Anurag Raj**
 📦 NPM: [@anurag\_raj\_09/common](https://www.npmjs.com/package/@anurag_raj_09/common)
-🐙 GitHub: [anurag-raj-09](https://github.com/anurag-raj-09)
+🐙 GitHub: [Anurag-0707](https://github.com/Anurag07-07)
 
 ```
 
